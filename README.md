@@ -1,7 +1,6 @@
-# Flipthescripts 
-A collection of my scripts for the flipper zero **only use these scripts on your own devices**
+# FlipTheScripts
+A collection of home made BadUSB flipper scripts.
 
-![](https://github.com/Flipthescripts/flipper.gif)
-
-
-I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY THESE SCRIPTS thanks :)
+## Make sure
+- Edit the webhook in the InfoHazard file, otherwise you wont get the file on to discord. [WEBHOOK]
+- Only use this for educational purposes
